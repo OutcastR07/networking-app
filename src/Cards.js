@@ -11,7 +11,7 @@ const Cards = () => {
     },
     {
       name: 'Brad Pitt',
-      url: 'https://th.bing.com/th/id/OIP.KK0qb7M2FI0lwsArvyv2HQHaFS?pid=ImgDet&rs=1',
+      url: 'https://th.bing.com/th/id/R.f0e07d919ebfefe584570e7fc3d7b9ae?rik=FutW5czOEoOhMw&pid=ImgRaw&r=0',
     }
   ]);
 
